@@ -1,3 +1,3 @@
 import { sum } from "./calculator"
 
-console.log(sum(1, 1));
+console.log(sum<number>(1, 1));
