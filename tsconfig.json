@@ -1,8 +1,10 @@
 {
+  "include": ["src/**/*"],
+	"exclude": ["node_modules/*", "public/*"],
   "compilerOptions": {
     "noImplicitAny": true,
-    "module": "es6",
-    "target": "es5",
+    "module": "ES6",
+    "target": "ES5",
     "allowJs": false,
     "moduleResolution": "node"
   }

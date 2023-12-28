@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dirkarnez/minimal-webpack-typescript-boilerplate#readme",
   "devDependencies": {
+    "@types/node": "^20.10.5",
     "ts-loader": "^9.4.1",
     "typescript": "^4.8.4",
     "webpack": "^5.74.0",
